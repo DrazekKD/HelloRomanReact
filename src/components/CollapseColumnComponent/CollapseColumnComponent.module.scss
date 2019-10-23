@@ -1,0 +1,9 @@
+.column {
+	height: 300px;
+	background-color: darkgreen;
+}
+
+.isCollapsed{
+	max-height: 0;
+	overflow: hidden;
+}
